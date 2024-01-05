@@ -1,2 +1,3 @@
-# Ga Auto Clicker
-Ga Auto Clicker
+## Ga Auto Clicker
+
+> A Godsent Auto-Clicker
