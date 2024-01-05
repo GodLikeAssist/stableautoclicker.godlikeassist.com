@@ -1,2 +1,2 @@
-# gaautoclicker.godlikeassist.com
+# stableautoclicker.godlikeassist.com
 Ga Auto Clicker
